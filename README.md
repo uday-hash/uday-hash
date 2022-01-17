@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hey I'm [Uday!] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/manchikatla/">
@@ -7,9 +6,7 @@
 <a href="https://twitter.com/UdayManchikatla">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="http://dev.to/uday">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
-</a>
+
 <br />
 <br />
 
