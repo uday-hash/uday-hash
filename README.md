@@ -32,9 +32,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 💰 Support
-<p>
-![image](https://user-images.githubusercontent.com/85803918/151162362-93a5ae95-3e2f-4e83-8dfd-e72a7ffd3aae.png)
-</p>
+![btc](https://user-images.githubusercontent.com/85803918/151164869-d1f3f7d4-6ecc-43da-a905-3e7e6851f54d.png)
+
 
 ## 📈 Stats
 <p align="center">
