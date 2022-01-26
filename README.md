@@ -1,13 +1,12 @@
 ## Hey I'm Uday! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=uday-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 <a href="https://www.linkedin.com/in/manchikatla/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/UdayManchikatla">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<img src="https://activity-graph.herokuapp.com/graph?username=uday-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
