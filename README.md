@@ -13,11 +13,6 @@
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Libraries & Framework :
@@ -25,8 +20,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 ### DevOps & Cloud Tools:
@@ -40,8 +33,7 @@
 
 ## 💰 Support
 <p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+![image](https://user-images.githubusercontent.com/85803918/151162362-93a5ae95-3e2f-4e83-8dfd-e72a7ffd3aae.png)
 </p>
 
 ## 📈 Stats
