@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/manchikatla/"><img align="left" width="24px" src="https://user-images.githubusercontent.com/85803918/151165824-3991e70b-16f8-4740-a612-cdbc26b9e6f5.png"  /></a>
-<a href="https://twitter.com/UdayManchikatla"><img align="left" width="26px" src="https://user-images.githubusercontent.com/85803918/151168169-0b5dde23-e44d-4abb-bf6c-495813ecb169.svg" /></a>
+<a href="https://twitter.com/uday-hash"><img align="left" width="26px" src="https://user-images.githubusercontent.com/85803918/151168169-0b5dde23-e44d-4abb-bf6c-495813ecb169.svg" /></a>
 
 <br />
 
