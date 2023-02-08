@@ -22,8 +22,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 💰 Support
-![btc](https://user-images.githubusercontent.com/85803918/151164869-d1f3f7d4-6ecc-43da-a905-3e7e6851f54d.png)
 
 
 ## 📈 Stats
