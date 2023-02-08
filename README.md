@@ -34,7 +34,6 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=uday-hash.uday-hash)
 
 
 <!--
